@@ -42,5 +42,5 @@ Technologies used in the project:
 
 <h2>📞 Contact</h2>
 
-* LinkedIn: Shiv Rawat
+* LinkedIn: [Shiv Rawat](https://www.linkedin.com/in/shivrawat2019/)
 * Email: shivrawat2019@gmail.com
