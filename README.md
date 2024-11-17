@@ -1,38 +1,46 @@
-# Music-data-analysis
+<h1 align="center" id="title">Music-data-analysis</h1>
 
-SQL Query Analysis
+<p id="description">This project contains SQL queries designed to analyze employee customer invoice and music data. The queries cover basic moderate and advanced use cases for database analysis.</p>
 
-This project contains SQL queries designed to analyze employee, customer, invoice, and music data. The queries cover basic, moderate, and advanced use cases for database analysis.
-Queries Overview
-Easy Queries
+  
+  
+<h2>🧐 Queries Overview-</h2>
 
-    Find the senior-most employee.
-    Identify the country with the most invoices.
-    Retrieve the top 3 invoice totals.
-    Find the city with the highest invoice total.
-    Identify the best customer based on total spending.
+Easy Queries-
 
-Moderate Queries
+* Find the senior-most employee.
+* Identify the country with the most invoices.
+* Retrieve the top 3 invoice totals.
+* Find the city with the highest invoice total.
+ * Identify the best customer based on total spending.
 
-    List all customers who listen to Rock music.
-    Identify the top 10 rock artists based on track count.
-    List tracks longer than the average song length.
+Moderate Queries-
+* List all customers who listen to Rock music.
+* Identify the top 10 rock artists based on track count.
+* List tracks longer than the average song length.
 
 Advanced Queries
+* Calculate how much each customer has spent on the best-selling artist.
+* Find the most popular music genre for each country.
+* Determine the top customer by spending in each country.
 
-    Calculate how much each customer has spent on the best-selling artist.
-    Find the most popular music genre for each country.
-    Determine the top customer by spending in each country.
 
-Installation
 
-    Clone the repository:
+<h2>🛠️ Installation Steps:</h2>
 
-    git clone https://github.com/your-repo/sql-query-analysis.git
+<p>1. git clone https://github.com/your-repo/sql-query-analysis.git</p>
 
-    Set up your database and run the queries using your preferred SQL tool.
+  
+  
+<h2>💻 Built with</h2>
 
-Contact
+Technologies used in the project:
 
-    LinkedIn: Shiv Rawat
-    Email: shivrawat2019@gmail.com
+*   Python
+*   Pandas
+*   Matplotlib
+
+<h2>📞 Contact</h2>
+
+* LinkedIn: Shiv Rawat
+* Email: shivrawat2019@gmail.com
