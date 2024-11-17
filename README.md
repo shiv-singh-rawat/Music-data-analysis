@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Music-data-analysis</h1>
 
-<p id="description">This project contains SQL queries designed to analyze employee customer invoice and music data. The queries cover basic moderate and advanced use cases for database analysis..</p>
+<p id="description">This project contains SQL queries designed to analyze employee customer invoice and music data. The queries cover basic moderate and advanced use cases for database analysis.</p>
 
   
   
